@@ -1,6 +1,6 @@
-# by beepingmoon, 2014-05-04
-# 3 dimensional array representing a sort of image
-# very unreal, for test purposes only
+// by beepingmoon, 2014-05-04
+// 3 dimensional array representing a sort of image
+// very unreal, for test purposes only
 
 #include <stdio.h>
 #include <stdlib.h>
